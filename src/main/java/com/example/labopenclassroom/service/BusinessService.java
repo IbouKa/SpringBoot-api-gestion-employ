@@ -1,8 +1,8 @@
-package com.example.labopenclassroom.labopenclassroom.service;
+package com.example.labopenclassroom.service;
 
 import org.springframework.stereotype.Component;
 
-import com.example.labopenclassroom.labopenclassroom.model.HelloWord;
+import com.example.labopenclassroom.model.HelloWord;
 
 @Component
 public class BusinessService {

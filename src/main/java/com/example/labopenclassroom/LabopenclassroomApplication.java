@@ -1,12 +1,12 @@
-package com.example.labopenclassroom.labopenclassroom;
+package com.example.labopenclassroom;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.CommandLineRunner; 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.example.labopenclassroom.labopenclassroom.model.HelloWord;
-import com.example.labopenclassroom.labopenclassroom.service.BusinessService;
+import com.example.labopenclassroom.model.HelloWord;
+import com.example.labopenclassroom.service.BusinessService;
 
 @SpringBootApplication
 public class LabopenclassroomApplication implements CommandLineRunner {

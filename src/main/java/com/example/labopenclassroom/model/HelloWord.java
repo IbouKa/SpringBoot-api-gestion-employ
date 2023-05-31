@@ -1,4 +1,4 @@
-package com.example.labopenclassroom.labopenclassroom.model;
+package com.example.labopenclassroom.model;
 
 import io.micrometer.observation.annotation.Observed;
 
